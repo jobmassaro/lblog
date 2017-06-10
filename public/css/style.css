@@ -1,0 +1,10 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 10em;
+}
+
+.jumbotron{
+    margin-left: -30px;
+    margin-right: -30px;
+    margin-top: -25px;
+}
